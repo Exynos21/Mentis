@@ -5,14 +5,14 @@ A privacy-preserving NLP-based classification model designed to analyze mental h
 
 ## 📌 Table of Contents  
 1. [Introduction](#-introduction)  
-2. [Features](#features)  
-3. [Dataset](#dataset)  
-4. [Model Architecture](#model-architecture)  
-5. [Federated Learning Setup](#federated-learning-setup)  
-6. [Results](#results)  
-7. [Challenges](#challenges)  
-8. [Future Scope](#future-scope)  
-9. [How to Run](#how-to-run)  
+2. [Features](#-features)  
+3. [Dataset](#-dataset)  
+4. [Model Architecture](#-model-architecture)  
+5. [Federated Learning Setup](#-federated-learning-setup)  
+6. [Results](#-results)  
+7. [Challenges](#-challenges)  
+8. [Future Scope](#-future-scope)  
+9. [How to Run](#-how-to-run)  
 
 ---
 
